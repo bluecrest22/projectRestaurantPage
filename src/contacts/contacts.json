@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Steve",
+        "title": "Head Chef",
+        "phone": "797-558-8902",
+        "email": "johnSteve@gmail.com"
+    },
+    {
+        "name": "Sarah Paulson",
+        "title": "Manager",
+        "phone": "888-999-0332",
+        "email": "sarahPaulson@gmail.com"
+    }
+]
